@@ -20,7 +20,7 @@ public class PrimitiveDataType {
 		float Newton = 44.3f;
 		char BloodType = 'A';
 		
-		System.out.println("<<아이유 프로필>>");
+		System.out.println("<< 아이유 프로필 >>");
 		System.out.println("이름 : "+ name);
 		if(Gender = false)
 		{
