@@ -30,6 +30,9 @@ public class MelonChart {
 		printList(list);
 		System.out.println("");
 		
+		list.clear();
+		System.out.println("-- << 전체 리스트 삭제 >> --");
+		
 		
 	}
 	public static void printList(ArrayList<Music> list){
